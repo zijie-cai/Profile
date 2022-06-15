@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Zijie Cai
+- 👋 Hi, my name is Zijie (Leo) Cai
 - 👀 I’m interested in visual computing/machine learning
 - 🌱 I’m currently pursing a bachelor's degree at University of Maryland, College Park Campus
 
