@@ -1,4 +1,4 @@
-# [Zijie Cai]: Machine Learning Enthusiast
+# [Zijie Cai]: Machine Learning/Computer Vision Researcher
 
 ## Academic Background
 - 🎓 Senior Undergraduate at the University of Maryland, College Park, majoring in Computer Science.
