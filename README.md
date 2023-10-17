@@ -15,7 +15,7 @@
   
 ## Skills and Expertise 💡
 - **Programming Languages**: Python ![99%](https://progress-bar.dev/99)
-- **Frameworks**: TensorFlow ![77%](https://progress-bar.dev/77), PyTorch ![66%](https://progress-bar.dev/66)
+- **Frameworks**: TensorFlow ![88%](https://progress-bar.dev/88), PyTorch ![88%](https://progress-bar.dev/88)
 - **Computer Vision Technologies**: OpenCV ![88%](https://progress-bar.dev/88)
 - **Other Interests**: Human-Computer Interaction (i.e. Robotics), AI Ethics, Quantum Computing
 
