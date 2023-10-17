@@ -5,7 +5,7 @@
 - Specializing in Machine Learning with a keen focus on **Computer Vision**.
 
 ## Research and Professional Experience 📚
-- 🧪 Active participant in the [UMD Intelligent Sensing Laboratory]{https://intelligent-sensing.github.io/}, emphasizing computational imaging and sensing.
+- 🧪 Active participant in the [UMD Intelligent Sensing Laboratory](https://intelligent-sensing.github.io/), emphasizing computational imaging and sensing.
 - 📝 Contributed to various research/personal projects, utilizing deep learning to tackle complex challenges.
 - 🌐 Committed to applying computer vision in real-world scenarios, across all industries.
 
