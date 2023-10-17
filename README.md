@@ -9,11 +9,11 @@
 - 📝 Contributed to research and personal projects, utilizing deep learning to tackle complex challenges.
 - 🌐 Committed to applying computer vision in real-world scenarios across various industries.
 
-### Key Projects 🌟
+## Key Projects 🌟
 - [Gesture Control Apple TV](https://github.com/zai28/GestureControlAppleTV)
 - [Underwater Depth Mapping through RGB-Sonar Integration](https://github.com/zai28/UnderwaterDepthMapping)
 
-## Skills and Expertise 💡
+## Skill Set 🎯
 - **Programming Languages**: Python ![99%](https://progress-bar.dev/99)
 - **Frameworks**: TensorFlow ![88%](https://progress-bar.dev/88), PyTorch ![88%](https://progress-bar.dev/88)
 - **Computer Vision Technologies**: OpenCV ![88%](https://progress-bar.dev/88)
@@ -22,10 +22,10 @@
 ## Publications 📝
 - Coming Soon
 
-## Personal Pursuits 🎮
-- ⚽ Enjoys playing and watching sports; favorite sport is soccer.
-- 🎮 Loves video games for both entertainment and technical innovation.
-- 📚 Dedicated to continuous learning and expanding knowledge every day.
+## Just Me 🕺
+- ⚽ Soccer is the best sport. 
+- 🎮 If I am not coding, I am gaming. 
+- 🌱 Always learning, always growing. 
 
 ## Connect and Collaborate 🤝
 - [LinkedIn](https://www.linkedin.com/in/zai28/)
