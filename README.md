@@ -1,8 +1,9 @@
-# [Zijie Cai]: Computer Vision/Machine Learning Researcher 👨‍💻
+# Hello World, I'm Zijie! 👋 
+### Computer Vision and Machine Learning Researcher 👨‍💻
 
 ## Academic Background 🎓
-- Senior Undergraduate at the **University of Maryland, College Park**, majoring in Computer Science.
-- Specializing in Machine Learning with a keen focus on **Computer Vision**.
+- Wrapping up my senior year at **University of Maryland, College Park**. Yep, I'm a **Computer Science** major.
+- Diving deep into **Machine Learning** and loving my time focusing on **Computer Vision**.
 
 ## Research and Professional Experience 📚
 - 🧪 Active participant in the [UMD Intelligent Sensing Laboratory](https://intelligent-sensing.github.io/), emphasizing computational imaging and sensing.
@@ -25,7 +26,7 @@
 ## Personal Pursuits 🎮
 - ⚽ Enjoys playing and watching sports. Favorite sport is soccer.
 - 🎮 Loves video games, for both their entertainment and technical innovation.
-- 📚 Committed to continuous learning and expanding knowledge every day.
+- 📚 Dedicated to continuous learning and expanding knowledge every day.
 
 ## Connect and Collaborate 🤝
 - [LinkedIn](https://www.linkedin.com/in/zai28/)
