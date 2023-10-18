@@ -23,13 +23,13 @@
 - Coming Soon
 
 ## Just Me 🕺
-- ⚽ Soccer is the best sport. 
+- ⚽ Soccer is the best sport (to me). 
 - 🎮 If I am not coding, I am gaming. 
 - 🌱 Always learning, always growing. 
 
 ## Connect and Collaborate 🤝
 - [LinkedIn](https://www.linkedin.com/in/zai28/)
-- [Twitter](https://twitter.com/zcai28)
+- [X](https://twitter.com/zcai28)
 - 📧 Email: zai28@terpmail.umd.edu
 
 Feel free to explore my GitHub repositories and reach out for collaboration or inquiries!
