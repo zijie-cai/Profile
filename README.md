@@ -28,8 +28,8 @@
 - 🌱 Always learning, always growing. 
 
 ## Connect and Collaborate 🤝
-- [LinkedIn](https://www.linkedin.com/in/zai28/)
-- [X](https://twitter.com/zcai28)
+- ![LinkedIn Icon](https://img.icons8.com/color/20/000000/linkedin.png) [LinkedIn](https://www.linkedin.com/in/zai28/)
+- ![Twitter Icon](https://img.icons8.com/color/20/000000/twitter.png) [Twitter](https://twitter.com/zcai28)
 - 📧 Email: zai28@terpmail.umd.edu
 
 Feel free to explore my GitHub repositories and reach out for collaboration or inquiries!
