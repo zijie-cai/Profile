@@ -12,7 +12,7 @@
 ## Key Projects 🌟
 - [Gesture Control Apple TV](https://github.com/zijie-cai/Gesture-Control-Apple-TV)
 - [Image-based Maze Generator and Solver](https://github.com/zijie-cai/Image-based-Maze-Generator-and-Solver)
-- Underwater Depth Mapping through RGB-Sonar Integration(Ongoing)
+- Underwater Depth Mapping through RGB-Sonar Integration (Ongoing)
 
 ## Skill Set 🎯
 - **Programming Languages**: Python ![99%](https://progress-bar.dev/99)
