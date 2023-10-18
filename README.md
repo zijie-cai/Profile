@@ -24,10 +24,10 @@
 - Coming Soon
 
 ## Just Me 🕺
-- ⚽ Soccer is the best sport (to me).
-- 🎮 If I am not coding, I am gaming.
-- 🍳 Cooking is another passion of mine.
 - 🌱 Always learning, always growing.
+- ⚽ Soccer is my go-to sport.
+- 🎮 If I'm not coding, then I'm gaming.
+- 🍳 Else, I am cooking and/or eating.
 
 ## Connect and Collaborate 🤝
 - ![LinkedIn Icon](https://img.icons8.com/color/20/000000/linkedin.png) [LinkedIn](https://www.linkedin.com/in/zai28/)
