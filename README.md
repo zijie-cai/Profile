@@ -10,8 +10,9 @@
 - 🌐 Committed to applying computer vision in real-world scenarios across various industries.
 
 ## Key Projects 🌟
-- [Gesture Control Apple TV](https://github.com/zai28/GestureControlAppleTV)
-- [Underwater Depth Mapping through RGB-Sonar Integration](https://github.com/zai28/UnderwaterDepthMapping)
+- [Gesture Control Apple TV](https://github.com/zijie-cai/Gesture-Control-Apple-TV)
+- [Image-based Maze Generator and Solver](https://github.com/zijie-cai/Image-based-Maze-Generator-and-Solver)
+- Underwater Depth Mapping through RGB-Sonar Integration(Ongoing)
 
 ## Skill Set 🎯
 - **Programming Languages**: Python ![99%](https://progress-bar.dev/99)
