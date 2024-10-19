@@ -18,12 +18,12 @@
 
 ## Skill Set 🎯
 - **Programming Languages**: 
-  - Python: ██████████ 100%
+  - Python
 - **Deep Learning Frameworks**: 
-  - TensorFlow: █████████ 88%
-  - PyTorch: █████████ 88%
+  - TensorFlow
+  - PyTorch 
 - **Computer Vision Tools**:
-  - OpenCV: █████████ 88%
+  - OpenCV
 - **Additional Interests**:
   - Human-Computer Interaction (HCI), AI Ethics, Quantum Computing
   
