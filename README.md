@@ -1,18 +1,20 @@
 # [Zijie Cai]: Computer Vision/Machine Learning Researcher 👨‍💻
 
 ## Academic Background 🎓
-- Senior Undergraduate at the **University of Maryland, College Park**, majoring in **Computer Science**.
-- Specializing in **Machine Learning** with a focus on **Computer Vision**.
+- Master's Student at the **University of Maryland, College Park, Department of Computer Science**.
+- Research Focus: **Computer Vision** and **Machine Perception**, **Computer Graphics**, **Computational Imaging and Sensing**.
 
 ## Research and Professional Experience 📚
-- 🧪 Participant in [UMD Intelligent Sensing Laboratory](https://intelligent-sensing.github.io/), emphasizing computational imaging and sensing.
+- 🧪 Researcher in [UMD Intelligent Sensing Laboratory](https://intelligent-sensing.github.io/), emphasizing computational imaging and sensing.
 - 📝 Contributed to research and personal projects, utilizing deep learning to tackle complex challenges.
 - 🌐 Committed to applying computer vision in real-world scenarios across various industries.
 
 ## Key Projects 🌟
 - [Gesture Control Apple TV](https://github.com/zijie-cai/Gesture-Control-Apple-TV)
+- [N-Queens Playground](https://github.com/zijie-cai/N-Queens-Playground)
+- [Coqui-AI Voice Clone GUI](https://github.com/zijie-cai/coqui-ai-voice-clone-gui)
 - [Image-based Maze Generator and Solver](https://github.com/zijie-cai/Image-based-Maze-Generator-and-Solver)
-- Underwater Depth Mapping through RGB-Sonar Integration (Ongoing)
+- Underwater Depth Mapping through RGB-Sonar Integration (Ongoing Research)
 
 ## Skill Set 🎯
 - **Programming Languages**: Python ![99%](https://progress-bar.dev/99)
