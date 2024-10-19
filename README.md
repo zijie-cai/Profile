@@ -1,4 +1,4 @@
-# [Zijie Cai]: Machine Learning Researcher 👨‍💻
+# [Zijie Cai] 👨‍💻
 
 ## Academic Background 🎓
 - Master's Student at the **University of Maryland, College Park, Department of Computer Science**.
