@@ -5,7 +5,7 @@
 - Research Focus: **Computer Vision** and **Machine Perception**, **Computer Graphics**, **Computational Imaging and Sensing**.
 
 ## Research and Professional Experience 📚
-- 🧪 Researcher in [UMD Intelligent Sensing Laboratory](https://intelligent-sensing.github.io/), emphasizing computational imaging and sensing.
+- 🧪 Researcher in [UMD Intelligent Sensing Laboratory](https://intelligent-sensing.github.io/), emphasizing computational imaging and optical sensing.
 - 📝 Contributed to research and personal projects, utilizing deep learning to tackle complex challenges.
 - 🌐 Committed to applying computer vision in real-world scenarios across various industries.
 
