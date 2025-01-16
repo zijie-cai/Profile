@@ -14,7 +14,7 @@
 - [N-Queens Playground](https://github.com/zijie-cai/N-Queens-Playground)
 - [Coqui-AI Voice Clone GUI](https://github.com/zijie-cai/coqui-ai-voice-clone-gui)
 - [Image-based Maze Generator and Solver](https://github.com/zijie-cai/Image-based-Maze-Generator-and-Solver)
-- Underwater Depth Mapping through RGB-Sonar Integration (Ongoing Research)
+- Underwater Depth Estimation with RGB-Sonar Fusion (Ongoing Research)
 
 ## Skill Set 🎯
 - **Programming Languages**: 
