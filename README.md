@@ -25,7 +25,7 @@
 - **Computer Vision Tools**:
   - OpenCV
 - **Additional Interests**:
-  - Human-Computer Interaction (HCI), AI Ethics, Quantum Computing
+  - Physical AI, Human-Computer Interaction (HCI), AI Ethics, Quantum Computing
   
 ## Publications 📝
 - Coming Soon
