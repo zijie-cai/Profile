@@ -14,6 +14,7 @@
 - [N-Queens Playground](https://github.com/zijie-cai/N-Queens-Playground)
 - [Coqui-AI Voice Clone GUI](https://github.com/zijie-cai/coqui-ai-voice-clone-gui)
 - [Image-based Maze Generator and Solver](https://github.com/zijie-cai/Image-based-Maze-Generator-and-Solver)
+- [Consistency Evaluation of LLM-based Protein Contact Prediction](https://github.com/zijie-cai/esm-contact-prediction-consistency)
 - Underwater Depth Estimation with RGB-Sonar Fusion (Ongoing Research)
 
 ## Skill Set 🎯
