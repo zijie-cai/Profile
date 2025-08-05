@@ -11,7 +11,7 @@ My work spans research and applied AI—building neural networks for autonomous 
 - 🧠 **Research Assistant** at [UMD Intelligent Sensing Lab](https://intelligent-sensing.github.io/) under [Prof. Christopher Metzler](https://www.cs.umd.edu/~metzler/)
   - Focused on underwater **depth estimation** using **RGB-sonar fusion**
   - Led benchmarking across synthetic and real-world datasets (see: [arXiv](https://arxiv.org/abs/2507.02148))
-- 👨‍🏫 **AI & ML Instructor** @ iD Tech (Taught Python, PyTorch, NLP, CV, and generative AI to high school students)
+- 👨‍🏫 **AI & ML Instructor** @ iD Tech (Taught Python, PyTorch, NLP, CV, and generative AI)
 - 🤖 Passionate about deploying vision systems in physical environments and exploring the frontiers of **multimodal foundation models**
 
 ## Featured Projects 🌟
@@ -31,13 +31,13 @@ My work spans research and applied AI—building neural networks for autonomous 
 
 ## Publications 📝
 
-- **RGB-Sonar Fusion for Underwater Depth Estimation** – [arXiv:2507.02148](https://arxiv.org/abs/2507.02148)
+- **Underwater Monocular Metric Depth Estimation** – [arXiv:2507.02148](https://arxiv.org/abs/2507.02148)
 
 ## Outside of Tech 🌍
 
-- ✈️ I love **traveling** and exploring new cultures  
+- ✈️ I love **traveling** and experiencing new cultures  
 - 🍳 Always down to **cook something fun** or try new food  
-- ⚽ You can catch me playing or watching **soccer** on weekends
+- ⚽ You will see me playing or watching **soccer** on weekends
 
 ## Let's Connect 🤝
 
