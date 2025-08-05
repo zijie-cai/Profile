@@ -12,7 +12,6 @@ My work spans research and applied AI—building neural networks for autonomous 
   - Focused on underwater **depth estimation** using **RGB-sonar fusion**
   - Led benchmarking across synthetic and real-world datasets (see: [arXiv](https://arxiv.org/abs/2507.02148))
 - 👨‍🏫 **AI & ML Instructor** @ iD Tech (Taught Python, PyTorch, NLP, CV, and generative AI)
-- 🤖 Passionate about deploying vision systems in physical environments and exploring the frontiers of **multimodal foundation models**
 
 ## Featured Projects 🌟
 
